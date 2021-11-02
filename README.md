@@ -1,5 +1,5 @@
-# Hi there 👋 , I'm Bagus!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+# Hi there 👋 , I'm Hanes!.
+Machine Learning Enthusiast
 
 ### Tools:
 <p>

@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Hanes!.
-Machine Learning Enthusiast
+I am a machine learning enthusiast passionate about making machine learning models and interested in research
 
 ## ⚡ Technology Stacks
 
